@@ -37,5 +37,6 @@
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-raja-029158350/)
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake Animation](https://github.com/Pranavmaheshj/Pranavmaheshj/blob/output/github-contribution-grid-snake.svg)
+
 
